@@ -2,7 +2,11 @@
 ​
 > _Note:_ This document is intended to be relatively short. Be concise and precise. Assume the reader has no prior knowledge of your application and is non-technical. 
 ​
-## Description 
+## Partner Intro
+ * Include the names, emails, titles, primary or secondary point of contact at the partner organization
+ * Provide a short description about the partner organization. (2-4 lines)
+
+## Description about the project
 Keep this section very brief.
  * Provide a high-level description of your application and it's value from an end-user's perspective
  * What is the problem you're trying to solve? Is there any context required to understand **why** the application solves this problem?
@@ -32,6 +36,10 @@ Describe your Git/GitHub workflow. Essentially, we want to understand how your t
  * Describe your overall deployment process from writing code to viewing a live application
  * What deployment tool(s) are you using? And how?
  * Don't forget to **briefly justify why** you chose this workflow or particular aspects of it!
+
+ ## Coding Standards and Guidelines
+ Keep this section brief, a maximum of 2-3 lines. You would want to read through this [article](https://www.geeksforgeeks.org/coding-standards-and-guidelines/) to get more context about what this section is for before attempting to answer.
+  * These are 2 optional resources that you might want to go through: [article with High level explanation](https://blog.codacy.com/coding-standards-what-are-they-and-why-do-you-need-them/) and [this article with Detailed Explanation](https://google.github.io/styleguide/)
 ​
  ## Licenses 
 ​
