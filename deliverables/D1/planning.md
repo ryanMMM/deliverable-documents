@@ -120,4 +120,17 @@ List/describe the artifacts you will produce in order to organize your team.
  
 **Collaboration: (Share your responses to Q8 & Q9 from A1)**
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
- * How will you address the issue if one person doesn't contribute or is not responsive? 
+ * How will you address the issue if one person doesn't contribute or is not responsive?
+
+## Organisation Details
+
+#### Q11. How does your team fit within the overall team organisation of the partner?
+* Given the team structure of your partner, what role do you think your team will play?
+* Examples include product development that includes developing new features, or quality assurance that includes developing features that test the product reliability, or software maintenance that includes fixing crucial bugs in the product.
+* Provide examples of why you think you fit this role.
+
+#### Q12. How does your project fit within the overall product from the partner?
+* Look at the big picture of the product and think about how your project fits into this product.
+* Is your project the first step towards building this product? Is it the first prototype? Are you developing the frontend of a product whose backend is developed by the partner? Are you building the release pipelines for a product that is developed by the partner? Are you building a core feature set and take full ownership of these features?
+* You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g. from partner).
+* You can creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
