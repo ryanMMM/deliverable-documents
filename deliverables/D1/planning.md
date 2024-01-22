@@ -133,4 +133,4 @@ List/describe the artifacts you will produce in order to organize your team.
 * Look at the big picture of the product and think about how your project fits into this product.
 * Is your project the first step towards building this product? Is it the first prototype? Are you developing the frontend of a product whose backend is developed by the partner? Are you building the release pipelines for a product that is developed by the partner? Are you building a core feature set and take full ownership of these features?
 * You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g. from partner).
-* You can creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
+* You can be creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
